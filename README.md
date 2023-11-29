@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusr,  I’m a Data Analyst
 - 👀 I’m interested in Data Analysis,SQL, BI, AI and ML.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning ML.
 - 📫 How to reach me :yusralqarni@gmail.com
 
 <!---
